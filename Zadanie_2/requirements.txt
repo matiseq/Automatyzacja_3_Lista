@@ -1,1 +1,1 @@
-# requirements.txt
+# requirements.txt - brak w tym projekcie zależności
